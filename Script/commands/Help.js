@@ -43,10 +43,10 @@ module.exports.languages = {
 
 // 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
 const helpImages = [
-    "https://i.imgur.com/sxSn1K3.jpeg",
-    "https://i.imgur.com/8WvpgUL.jpeg",
-    "https://i.imgur.com/8WvpgUL.jpeg",
-    "https://i.imgur.com/sxSn1K3.jpeg"
+    "https://i.i.com/sxSn1K3.jpeg",
+    "https:/imgur.com/8WvpgUL.jpeg",
+    "https://gur.com/8WvpgUL.jpeg",
+    "https://mgur.com/sxSn1K3.jpeg"
 ];
 
 
@@ -144,7 +144,7 @@ ${msg}
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: ${prefix}
 ┃ 🤖 Bot Name: ${global.config.BOTNAME || "𝐌𝐀𝐑𝐔𝐅 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭"}
-┃ 👑 Owner: 𝗘𝗗𝗜𝗧𝗢𝗥 𝗠𝗔𝗥𝗥𝗨𝗙
+┃ 👑 Owner: 𝗘𝗗𝗜𝗧𝗢𝗥 𝗠𝗔𝗥𝗨𝗙
 ╰━━━━━━━━━━━━━━━━╯`;
 
     downloadImages(files => {  
